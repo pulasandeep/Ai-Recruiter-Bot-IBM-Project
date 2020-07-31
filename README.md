@@ -13,4 +13,5 @@ https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb
 
 A AI based project for AI based recruitment, in colaboration with IBM INDIA, and smartinternz
 
-
+Also check resume analysis program.
+And Linkedin profile analyser over jupyter notebook.
